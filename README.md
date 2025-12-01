@@ -32,6 +32,8 @@ Projeto referente a discplina de Back-end I do professor Kelson Almeida , utiliz
 <img width="1860" height="307" alt="{FC26574F-F54A-4CCE-A85F-954E5AED71D5}" src="https://github.com/user-attachments/assets/d20c76f5-364e-4d09-b081-68e749a3830a" />
 
 10°
-<img width="1344" height="915" alt="{2FBB1AEF-A5D1-461B-B93E-38A8870D8A63}" src="https://github.com/user-attachments/assets/da51654e-88c1-46c2-951c-6980d35f0212" />
+
+
+
 
 
